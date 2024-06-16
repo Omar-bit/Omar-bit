@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-bit" alt="omar-bit" /></a> </p>
 
-- 🌱 I’m currently learning **mongodb**
+- 🌱 I’m currently learning **Mongo db** **Next js** **Prisma**
 
 - 📫 How to reach me **bouassidaomar9@gmail.com**
 
